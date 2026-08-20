@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hello-world-zyrn.webp" width="100%" alt="Hello World, I'm Zyrn graffiti-gothic banner" />
+  <img src="./assets/zyrndotio.webp" width="100%" alt="Hello World, I'm Zyrn graffiti-gothic banner" />
 </p>
 
 # Zyrn.io

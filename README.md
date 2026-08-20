@@ -1,101 +1,80 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&text=ZYRNCODEZ&fontAlign=50&fontAlignY=38&fontSize=58&fontColor=F5EEE6&color=0D0D0D&desc=clean%20structure%20%2F%2F%20dirty%20edges&descAlign=50&descAlignY=61&descSize=17&descColor=C91D1D&animation=fadeIn" width="100%" alt="ZyrnCodez dark crimson profile banner" />   <a href="https://github.com/OdixCodez">
-    <img src="https://github.com/OdixCodez.png?size=240" width="120" alt="ZyrnCodez profile picture" style="border-radius: 50%; border: 3px solid #8B0000;" />
-  </a>
+<img src="https://github.com/OdixCodez.png?size=192" width="96" alt="ZyrnCodez profile picture" />
 
 ZyrnCodez
 
-I build expressive interfaces, clean systems, and developer tools with edge.
-
-<a href="https://github.com/OdixCodez?tab=repositories">Repositories</a> · <a href="https://github.com/OdixCodez/Zyrn-UI">Zyrn UI</a> · <a href="https://github.com/OdixCodez/Vortex">Vortex</a>
+<sub><b>SELF-TAUGHT POLYGLOT DEVELOPER</b> · 4+ YEARS IN CODE</sub>
 
 </div>
 
 
 
 
-High contrast. Clear intent. No filler.I am a developer working across TypeScript, React, and C#. I enjoy building interfaces that feel authored rather than assembled, alongside tools that make the underlying system easier to understand and use.
 
-<div align="center">
-<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-0D0D0D?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/C%23-0D0D0D?style=for-the-badge&logo=dotnet&logoColor=9B4FCE" alt="C Sharp" />
-  <img src="https://img.shields.io/badge/.NET-0D0D0D?style=for-the-badge&logo=dotnet&logoColor=8A2BE2" alt="Dotnet" />
-  <img src="https://img.shields.io/badge/VS%20Code-0D0D0D?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code" />
-</div>
+I did not start with a roadmap. I started by learning how things work, then kept building.
 
-// THE SIGNAL
+I am a self-taught developer with more than four years of hands-on experience. I work across languages and ecosystems, choosing the right tool for the problem instead of forcing every idea into one stack. What began as curiosity turned into a habit of building, breaking, understanding, and shipping.
 
-I care about accessible foundations, intentional design systems, and developer experience that does not get in the way. The visual layer should have a voice; the engineering underneath should be dependable enough to disappear.
+My work moves between interface systems, developer tooling, experiments, and everything in between. I care about code that is not only functional, but clear enough to return to, extend, and be proud of later.
 
-I build
-What that means
-Component systems
-Reusable React primitives with strong semantics, deliberate tokens, and visual personality.
-Developer tools
-Utilities that respect the terminal, reveal the system state, and make everyday work smoother.
-Interface atmosphere
-Theming, typography, motion, and contrast that turn a usable UI into a recognizable one.
+About me
 
 
 
 
-// SELECTED WORK
+
+Approach
+Polyglot by practice. I learn languages to understand different ways of thinking and to solve problems with the right tradeoffs.
+Experience
+4+ years of self-directed learning through projects, experiments, documentation, debugging, and repetition.
+Focus
+Building useful tools, expressive interfaces, and systems that feel intentional from the inside out.
+Mindset
+The best way to learn is to make something real, hit the limits, and keep going.
+
+
+
+
+Selected projects
 
 Project
-Brief
-Built with
+What it is
 Zyrn UI
-A sharp React component library influenced by woodblock print, Gothic composition, and graffiti texture. It pairs accessible primitives with tokens, scoped themes, and lightweight motion.
-TypeScript · React
+A React and TypeScript component library with accessible primitives, scoped themes, design tokens, and a sharp visual identity.
 Vortex
-A cross-platform, object-oriented shell for .NET with an object pipeline, PowerShell-style aliases, and a live process monitor.
-C# · .NET 9
+A cross-platform, object-oriented shell for .NET with an object pipeline, familiar command aliases, and live process monitoring.
 Simple ChatBot
-A compact exploration of conversational interface development.
-TypeScript
+A TypeScript project exploring conversational interfaces and application flow.
 Kairo Themes
-A refined collection of dark and light Visual Studio Code themes.
-VS Code
+A collection of dark and light themes for Visual Studio Code.
 
 
 
 
-// CURRENT ARC
+What I build with
 
-I am pushing Zyrn UI toward a more complete design system: expressive enough to be unmistakable, structured enough to stay useful. Alongside that, I keep exploring the space where UI craft, native tooling, and dark digital aesthetics meet.
-
-Plain Text
-
-
-[ 01 ]  Start with the system.
-[ 02 ]  Refuse generic surfaces.
-[ 03 ]  Make interaction feel deliberate.
-[ 04 ]  Ship something people can use.
-
-
-
-// WORKBENCH
+I am not tied to one language or one kind of project. My public work currently includes TypeScript, React, C#, .NET, and Visual Studio Code tooling; my broader interest is in learning the language, runtime, and design approach that a project actually calls for.
 
 Plain Text
 
 
-const zyrn = {
-  focus: ['React UI systems', 'developer tooling', 'design tokens'],
-  principles: ['accessible by default', 'sharp by design', 'practical in use'],
-  status: 'building the next artifact',
-};
+SELF-TAUGHT DOES NOT MEAN SELF-LIMITED.
+
+Learn the fundamentals.
+Build the thing.
+Understand the failure.
+Come back better.
 
 
+
+Current direction
+
+I am continuing to deepen my range as a developer: refining component systems, exploring tooling, and taking on projects that require me to learn something new rather than repeat what I already know.
 
 
 
 
 <div align="center">
-<sub>Open to thoughtful collaboration, useful feedback, and projects with a little more atmosphere.</sub>
-    
-  
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D0D0D&height=90&section=footer" width="100%" alt="Dark crimson profile footer" />
+<sub>Built through curiosity, iteration, and an unreasonable amount of persistence.</sub>
 </div>
 

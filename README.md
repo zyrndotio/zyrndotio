@@ -1,142 +1,63 @@
-<div align="center">
+# Hello World, I’m Zyrn
 
-Hi, I'm Zyrn
+# Zyrn.io
 
-Self-taught solo developer · Frontend and web development · He/Him
+> **4+ years of software development — self-taught through curiosity, refined through practice, and strengthened by shipping.**
 
-Pronounced: zi-ren
+I learned by building, analyzing failures, and iterating until an idea became something reliable. I work across languages and ecosystems because every tool offers a different way to think—and every project deserves a thoughtful technical approach.
 
-</div>
+`repositories` · **Zyrn UI** · **Vortex**
 
-About Me
+---
 
-I’m a 16-year-old self-taught developer with over four years of experience building software. I started coding out of curiosity, and that curiosity has grown into a continuous process of learning, experimenting, debugging, and shipping projects.
+## // SELF-TAUGHT, IN PRACTICE
 
-I learn by building things that do not work yet, tracing problems until they make sense, and carrying each lesson into the next project. I enjoy working across different languages and ecosystems because every tool teaches a different way of thinking, and every project deserves the right tool for the job.
+| Signal | What it means |
+| --- | --- |
+| **No prescribed route** | I built my foundation through practical projects, documentation, debugging, and consistent iteration. |
+| **Polyglot by design** | I learn languages to expand the ways I can approach problems, not simply to collect labels. |
+| **Four-plus years of mileage** | That experience comes from building, debugging, refactoring, and returning to problems with better context. |
+| **Craft over comfort** | I choose the right tool for the work, even when that requires learning something unfamiliar first. |
 
-I have built websites, browser extensions, plugins, applications, developer tools, themes, and other experimental projects. I am currently focused on improving my frontend development, interface design, and broader web development skills.
+```
++ build the first version
++ trace the system until the failure makes sense
++ turn the lesson into the next project
+- stay inside one stack just because it is familiar
+```
 
-Technologies
+---
 
-Languages
+## // LANGUAGE RACK
 
-•
-HTML
+### Core languages
 
-•
-CSS
+`TypeScript` `JavaScript` `C#` `HTML5` `CSS3` `C++` `Python` `Go`
 
-•
-JavaScript
+### Frameworks, runtimes, and tools
 
-•
-TypeScript
+`React` `.NET` `Vite` `Git` `Visual Studio Code` `Figma`
 
-•
-C#
+> The stack changes. The instinct stays the same: understand the system, make the trade-off, and ship the work.
 
-•
-C++
+---
 
-•
-Python
+## // WORK ON THE WALL
 
-•
-Go
+| Project | Artifact | Stack |
+| --- | --- | --- |
+| **Zyrn UI** | Expressive and accessible UI primitives, themes, tokens, and motion with a sharp visual identity. | TypeScript · React |
+| **Vortex** | A cross-platform object-oriented shell with a native pipeline, familiar aliases, and live process monitoring. | C# · .NET 8/.NET 9 |
+| **Kairo Themes** | Dark and light themes for the editor where the work gets done. | VS Code |
 
-Frameworks, Runtimes, and Tools
+---
 
-•
-React
+## // CURRENT ARC
 
-•
-.NET
+I am currently expanding my range through stronger interface systems, more capable developer tools, unfamiliar runtimes, and projects that bring multiple technologies together.
 
-•
-Vite
+Outside of development, I’m interested in **art, drawing, photography, nature, sleeping, and anything else that captures my attention**. I naturally gravitate toward darker visual styles, especially black and dark red.
 
-•
-Git
+---
 
-•
-Visual Studio Code
-
-•
-Figma
-
-Current Focus
-
-•
-Improving my frontend and web development skills
-
-•
-Designing clearer and more expressive user interfaces
-
-•
-Building reusable UI systems and developer tools
-
-•
-Exploring unfamiliar languages, frameworks, and runtimes
-
-•
-Creating projects that combine technical and creative ideas
-
-Selected Projects
-
-Zyrn UI
-
-Expressive and accessible UI primitives, themes, tokens, and motion with a distinctive visual identity.
-
-Built with: TypeScript and React
-
-Vortex
-
-A cross-platform, object-oriented shell with familiar aliases, a native pipeline, and live process monitoring.
-
-Built with: C# and .NET
-
-Kairo Themes
-
-Dark and light themes for the editor where the work gets done.
-
-Built for: Visual Studio Code
-
-How I Work
-
-1.
-Build the first version.
-
-2.
-Trace the system until the problem makes sense.
-
-3.
-Refactor, improve, and document what I learned.
-
-4.
-Use that experience to make the next project better.
-
-I do not want to stay inside one stack simply because it is familiar. I prefer understanding systems, making thoughtful trade-offs, and choosing tools based on what the project actually needs.
-
-Beyond Code
-
-Outside of development, I’m interested in art, photography, nature, sleeping, and anything else that captures my attention. I enjoy combining technical work with visual creativity, especially through expressive interfaces, themes, and unique digital experiences.
-
-I prefer darker visual styles, particularly colour palettes built around black and dark red.
-
-Philosophy
-
-
-Craft over comfort. Choose the right tool for the work, even when that means learning something unfamiliar first.
-
-
-No template. No borrowed persona. Just curiosity, creativity, and years of building things one version at a time.
-
-
-
-
-<div align="center">
-
-The stack changes. The instinct stays the same: understand the system, make the trade-off, and ship the work.
-
-</div>
-
+> ╲╱ **No template. No borrowed persona. Just curiosity, discipline, and experience earned through practice.** ╲╱

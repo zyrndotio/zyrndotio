@@ -1,71 +1,128 @@
-<p align="center">
-  <img src="./assets/zyrndotio.webp" width="100%" alt="Hello World, I'm Zyrn graffiti-gothic banner" />
-</p>
-
-# Zyrn.io
+Hi, I'm Zyrn
 
 
-> **4+ years in code — self-taught from curiosity, sharpened by shipping.**
->
-> I learned by building things that did not work yet, following the failure all the way down, and returning with a better version. I work across languages and ecosystems because every tool teaches a different way to think — and every project deserves the right one.
+Pronounced zi-ren · He/Him · Self-taught solo developer
 
-[**repositories**](https://github.com/OdixCodez?tab=repositories) · [**Zyrn UI**](https://github.com/OdixCodez/Zyrn-UI) · [**Vortex**](https://github.com/OdixCodez/Vortex)
+I’m a 16-year-old self-taught developer with more than four years of experience building software. I began coding out of curiosity, and that curiosity has grown into a continuous process of learning, experimenting, debugging, and shipping projects.
 
----
+I learn by building things that do not work yet, tracing problems until they make sense, and carrying each lesson into the next project. I enjoy working across different languages, frameworks, and ecosystems because every tool introduces a different way of thinking—and every project deserves the right tools for the job.
 
-## // SELF-TAUGHT, IN PRACTICE
+About Me
 
-| signal | what it means |
-| --- | --- |
-| **No prescribed route** | I built my own foundation through projects, documentation, debugging, and repetition. |
-| **Polyglot by design** | I learn languages to expand the ways I can solve problems, not to collect labels. |
-| **Four-plus years of mileage** | The experience came from building, breaking, refactoring, and coming back with more context. |
-| **Craft over comfort** | I will choose the right tool for the work, even when that means learning something unfamiliar first. |
+•
+I build websites, browser extensions, plugins, applications, developer tools, themes, and experimental projects.
 
-```diff
-+ build the first version
-+ trace the system until the failure makes sense
-+ turn the lesson into the next project
-- stay inside one stack just because it is familiar
-```
+•
+I’m currently focused on improving my frontend development, interface design, and broader web development skills.
 
-## // LANGUAGE RACK
+•
+I prefer learning through practical projects, documentation, debugging, and repetition.
 
-**Core languages**
+•
+I’m comfortable exploring unfamiliar technologies when they are the right fit for a project.
 
-<p>
-  <img src="https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/C%23-111111?style=for-the-badge&logo=sharp&logoColor=9B4F96" alt="C Sharp" />
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
-</p>
+•
+My preferred visual style is dark, with black and dark red as some of my favourite colours.
 
-**Frameworks, runtimes, and tools**
+Languages & Technologies
 
-<p>
-  <img src="https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/.NET-111111?style=for-the-badge&logo=dotnet&logoColor=512BD4" alt="Dotnet" />
-  <img src="https://img.shields.io/badge/Vite-111111?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite" />
-  <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-111111?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC" alt="Visual Studio Code" />
-</p>
+Category
+Technologies
+Languages
+HTML, CSS, JavaScript, TypeScript, C#, C++, Python, Go
+Frameworks & Runtimes
+React, .NET, Vite
+Tools
+Git, Visual Studio Code, Figma, 
+Areas of Interest
+Frontend development, web development, developer tools, UI systems, creative coding
 
-> **The stack changes. The instinct stays the same:** understand the system, make the tradeoff, ship the work.
 
-## // WORK ON THE WALL
 
-| project | artifact | stack |
-| --- | --- | --- |
-| [**Zyrn UI**](https://github.com/OdixCodez/Zyrn-UI) | Expressive and accessible UI primitives, themes, tokens, and motion with a sharp visual identity. | TypeScript · React |
-| [**Vortex**](https://github.com/OdixCodez/Vortex) | A cross-platform object-oriented shell with a native pipeline, familiar aliases, and live process monitoring. | C# · .NET 9 |
-| [**Simple ChatBot**](https://github.com/OdixCodez/Simple-ChatBot) | An experiment in conversational interfaces and application flow. | TypeScript |
-| [**Kairo Themes**](https://github.com/OdixCodez/Kairo--Themes) | Dark and light themes for the editor where the work gets done. | VS Code |
 
-## // CURRENT ARC
+How I Work
 
-Right now I am sharpening the range: stronger interface systems, better developer tools, unfamiliar runtimes, and projects that require more than one language to become real.
+1.
+Build the first version.
 
-```text
-╲╱  no template. no borrowed persona. just mileage.  ╲╱
-```
+2.
+Trace the system until the problem makes sense.
+
+3.
+Refactor, improve, and document what I learned.
+
+4.
+Use that experience to make the next project better.
+
+I do not want to stay inside one stack simply because it is familiar. I’m more interested in understanding systems, making thoughtful trade-offs, and choosing tools based on what the project actually needs.
+
+Current Focus
+
+Right now, I’m working on expanding my range as a developer by building stronger interface systems, improving my frontend skills, exploring unfamiliar runtimes, and creating projects that require more than one language or technology to become real.
+
+Beyond Code
+
+Outside of development, I’m interested in art, photography, nature, sleeping, and anything else that captures my attention. I enjoy combining technical work with visual creativity, particularly through expressive interfaces, themes, and unique digital experiences.
+
+
+No template. No borrowed persona. Just curiosity, creativity, and years of building things one version at a time.
+
+
+
+
+The stack changes. The instinct stays the same: understand the system, make the trade-off, and ship the work.
+
+<!-- Optional: Add project links, social links, GitHub statistics, or a contact section below. -->
+
+Featured Projects
+
+Project
+Description
+Stack
+Zyrn UI
+Expressive and accessible UI primitives, themes, tokens, and motion with a sharp visual identity.
+TypeScript · React
+Vortex
+A cross-platform object-oriented shell with familiar aliases, a native pipeline, and live process monitoring.
+C# · .NET
+Kairo Themes
+Dark and light themes for the editor where the work gets done.
+VS Code
+
+
+
+
+Thanks for Visiting
+
+I’m always learning, experimenting, and looking for new ideas to build. Thanks for taking the time to visit my profile.
+
+Profile Details
+
+•
+Name: Zyrn
+
+•
+Pronouns: He/Him
+
+•
+Experience: 4+ years of self-taught development
+
+•
+Role: Solo developer
+
+•
+Primary interests: Frontend, web development, creative coding, UI design, and developer tools
+
+•
+Favourite colours: Black and dark red
+
+Philosophy
+
+
+Craft over comfort.Choose the right tool for the work, even when that means learning something unfamiliar first.
+
+I’m still learning, still experimenting, and still building—but that is what makes the process worthwhile.
+
+
+
+

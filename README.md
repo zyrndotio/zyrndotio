@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://zyrn.io">
-    <img src="https://avatars.githubusercontent.com/u/300287385?v=4" width="150" alt="Zyrn's profile artwork" />
+    <img src="https://raw.githubusercontent.com/zyrndotio/zyrndotio/main/assets/Screenshot%202026-09-08%20231707.png" width="100%" alt="ZYRNDOTIO banner" />
   </a>
 </p>
 

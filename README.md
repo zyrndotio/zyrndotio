@@ -25,7 +25,7 @@ My work moves between systems programming, developer tools, interfaces, and visu
 
 ## languages I've worked with
 
-'C' · `C#` · `C++` · `TypeScript` · `JavaScript` · `Python` · `Go` · `Rust` · `Kotlin` · `Lua` · `HTML` · `CSS` · `SQL`
+`C#` · `C++` · `TypeScript` · `JavaScript` · `Python` · `Go` · `Rust` · `Kotlin` · `Lua` · `HTML` · `CSS` · `SQL`
 
 ## tools I use
 

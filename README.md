@@ -23,9 +23,9 @@ I’m **Zyrn / Zied**, a self-taught developer with **4+ years of coding experie
 
 My work moves between systems programming, developer tools, interfaces, and visual design. I enjoy the quiet details—the name of a command, the feel of an editor theme, the rhythm of a good component API, and the little choices that make software feel like it belongs to someone.
 
-## languages I work with
+## languages I've worked with
 
-`C#` · `C++` · `TypeScript` · `JavaScript` · `Python` · `Go` · `Rust` · `Kotlin` · `Lua` · `HTML` · `CSS` · `SQL`
+'C' · `C#` · `C++` · `TypeScript` · `JavaScript` · `Python` · `Go` · `Rust` · `Kotlin` · `Lua` · `HTML` · `CSS` · `SQL`
 
 ## tools I use
 

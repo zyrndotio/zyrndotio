@@ -1,63 +1,76 @@
-# Hello World, I’m Zyrn
+<p align="center">
+  <a href="https://zyrn.io">
+    <img src="https://avatars.githubusercontent.com/u/300287385?v=4" width="150" alt="Zyrn's profile artwork" />
+  </a>
+</p>
 
-## Zyrn.io
+<h1 align="center">hello, I’m Zyrn — or Zied</h1>
 
-> **Self-taught software developer building thoughtful interfaces, developer tools, and systems through curiosity, practice, and shipping.**
+<p align="center">
+  <em>self-taught developer · thoughtful software · a little bit of old-web coziness</em>
+</p>
 
-I learn by building, tracing failures, and iterating until an idea becomes something reliable. I work across languages and ecosystems because every tool offers a different way to think—and every project deserves a deliberate technical approach.
-
-`repositories` · **Zyrn UI** · **Vortex**
+<p align="center">
+  <a href="https://zyrn.io">zyrn.io</a> ·
+  <a href="https://github.com/zyrndotio">GitHub</a>
+</p>
 
 ---
 
-## // SELF-TAUGHT, IN PRACTICE
+## a small introduction
 
-| Signal | What it means |
+I’m **Zyrn / Zied**, a self-taught developer with **4+ years of coding experience**. I like learning by making things: following an idea through its awkward first version, understanding why it breaks, and slowly turning it into something useful and considered.
+
+My work moves between systems programming, developer tools, interfaces, and visual design. I enjoy the quiet details—the name of a command, the feel of an editor theme, the rhythm of a good component API, and the little choices that make software feel like it belongs to someone.
+
+## languages I work with
+
+`C#` · `C++` · `TypeScript` · `JavaScript` · `Python` · `Go` · `Rust` · `Kotlin` · `Lua` · `HTML` · `CSS` · `SQL`
+
+## tools I use
+
+### development
+
+`VS Code` · `IntelliJ IDEA` · `Zed` · `Git` · `GitHub`
+
+### design & creative work
+
+`Figma` · `Canva` · `Photoshop` · `Illustrator` · `Milanote`
+
+I care about both sides of the work: how something is built, and how it feels to use. My design interests lean toward expressive interfaces, clear visual systems, thoughtful typography, and darker, warmer palettes.
+
+## certifications
+
+- **Adobe Photoshop — certified**
+- **Adobe Illustrator — certified**
+
+## things I’m proud to have made
+
+| Project | What it is |
 | --- | --- |
-| **No prescribed route** | I built my foundation through practical projects, documentation, debugging, and consistent iteration. |
-| **Polyglot by design** | I learn languages to expand the ways I can approach problems, not simply to collect labels. |
-| **Four-plus years of mileage** | That experience comes from building, debugging, refactoring, and returning to problems with better context. |
-| **Craft over comfort** | I choose the right tool for the work, even when that means learning something unfamiliar first. |
+| [**Vel**](https://github.com/zyrndotio/Vel) | A readable systems programming language with a portable C++23 frontend and x86-64 Linux/macOS assembly backends. |
+| [**Zyrn UI**](https://github.com/zyrndotio/Zyrn-UI) | A React + TypeScript UI component library with an ink-and-paper, woodblock-inspired design system. |
+| [**Vortex**](https://github.com/zyrndotio/Vortex) | A cross-platform object-oriented shell in native C# .NET 9, with PowerShell cmdlet aliases and live process monitoring. |
+| [**Kairo Themes**](https://github.com/zyrndotio/Kairo--Themes) | A Visual Studio Code extension with a refined collection of dark and light color themes. |
 
-```
-+ build the first version
-+ trace the system until the failure makes sense
-+ turn the lesson into the next project
-- stay inside one stack just because it is familiar
-```
+## what I enjoy building
 
----
+I’m especially drawn to:
 
-## // LANGUAGE RACK
+- developer tools that make complicated work feel calmer;
+- programming languages, shells, and systems that reward curiosity;
+- component libraries and interfaces with a strong visual point of view;
+- editor themes and small creative tools that make a workspace feel personal;
+- experiments that bring code, design, and storytelling into the same place.
 
-### Core languages
+## find me here
 
-`TypeScript` `JavaScript` `C#` `HTML5` `CSS3` `C++` `Python` `Go`
-
-### Frameworks, runtimes, and tools
-
-`React` `.NET` `Vite` `Git` `Visual Studio Code` `Figma`
-
-> The stack changes. The instinct stays the same: understand the system, make the trade-off, and ship the work.
+- **Website:** [Zyrn.io](https://zyrn.io)
+- **GitHub:** [@zyrndotio](https://github.com/zyrndotio)
+- **Projects:** [Vel](https://github.com/zyrndotio/Vel) · [Zyrn UI](https://github.com/zyrndotio/Zyrn-UI) · [Vortex](https://github.com/zyrndotio/Vortex) · [Kairo Themes](https://github.com/zyrndotio/Kairo--Themes)
 
 ---
 
-## // WORK ON THE WALL
-
-| Project | Artifact | Stack |
-| --- | --- | --- |
-| **Zyrn UI** | Expressive and accessible UI primitives, themes, tokens, and motion with a sharp visual identity. | TypeScript · React |
-| **Vortex** | A cross-platform object-oriented shell with a native pipeline, familiar aliases, and live process monitoring. | C# · .NET 8/.NET 9 |
-| **Kairo Themes** | Dark and light themes for the editor where the work gets done. | VS Code |
-
----
-
-## // CURRENT ARC
-
-I’m expanding my range through stronger interface systems, more capable developer tools, unfamiliar runtimes, and projects that bring multiple technologies together.
-
-Outside development, I’m interested in **art, drawing, photography, nature, sleeping, and anything else that captures my attention**. I naturally gravitate toward darker visual styles, especially black and dark red.
-
----
-
-> ╲╱ **No template. No borrowed persona. Just curiosity, discipline, and experience earned through practice.** ╲╱
+<p align="center">
+  <sub>made with curiosity, patience, and a fondness for dark themes</sub>
+</p>

@@ -1,76 +1,55 @@
 <p align="center">
   <a href="https://zyrn.io">
-    <img src="https://raw.githubusercontent.com/zyrndotio/zyrndotio/main/assets/Screenshot%202026-09-08%20231707.png" width="100%" alt="ZYRNDOTIO banner" />
+    <img src="https://raw.githubusercontent.com/zyrndotio/zyrndotio/main/assets/Screenshot%202026-09-08%20231707.png" width="100%" alt="Zyrn developer portfolio banner" />
   </a>
 </p>
 
-<h1 align="center">hello, I’m Zyrn — or Zied</h1>
+<h1 align="center">Hi, I’m Zyrn (Zied)</h1>
 
 <p align="center">
-  <em>self-taught developer · thoughtful software · a little bit of old-web coziness</em>
+  <strong>Student developer building systems software, developer tools, and thoughtful interfaces.</strong>
 </p>
 
 <p align="center">
-  <a href="https://zyrn.io">zyrn.io</a> ·
+  <a href="https://zyrn.io">Portfolio</a> ·
   <a href="https://github.com/zyrndotio">GitHub</a>
 </p>
 
----
+## About me
 
-## a small introduction
+I’m a self-taught developer with 4+ years of hands-on programming experience. I learn by shipping: turning ideas into working software, investigating failures, and improving the design until the result is useful and understandable.
 
-I’m **Zyrn / Zied**, a self-taught developer with **4+ years of coding experience**. I like learning by making things: following an idea through its awkward first version, understanding why it breaks, and slowly turning it into something useful and considered.
+My main interests are **systems programming**, **developer tools**, **programming languages**, **Windows software**, and **React/TypeScript interfaces**. I also care about visual design, documentation, testing, and the small details that make software feel dependable.
 
-My work moves between systems programming, developer tools, interfaces, and visual design. I enjoy the quiet details—the name of a command, the feel of an editor theme, the rhythm of a good component API, and the little choices that make software feel like it belongs to someone.
+I’m currently building in public and looking for opportunities to contribute to serious open-source projects, learn from experienced engineers, and work on software that helps people.
 
-## languages I've worked with
+## Selected projects
 
-`C#` · `C++` · `TypeScript` · `JavaScript` · `Python` · `Go` · `Rust` · `Kotlin` · `Lua` · `HTML` · `CSS` · `SQL`
-
-## tools I use
-
-### development
-
-`VS Code` · `IntelliJ IDEA` · `Zed` · `Git` · `GitHub`
-
-### design & creative work
-
-`Figma` · `Canva` · `Photoshop` · `Illustrator` · `Milanote`
-
-I care about both sides of the work: how something is built, and how it feels to use. My design interests lean toward expressive interfaces, clear visual systems, thoughtful typography, and darker, warmer palettes.
-
-## certifications
-
-- **Adobe Photoshop — certified**
-- **Adobe Illustrator — certified**
-
-## things I’m proud to have made
-
-| Project | What it is |
+| Project | Description |
 | --- | --- |
-| [**Vel**](https://github.com/zyrndotio/Vel) | A readable systems programming language with a portable C++23 frontend and x86-64 Linux/macOS assembly backends. |
-| [**Zyrn UI**](https://github.com/zyrndotio/Zyrn-UI) | A React + TypeScript UI component library with an ink-and-paper, woodblock-inspired design system. |
-| [**Vortex**](https://github.com/zyrndotio/Vortex) | A cross-platform object-oriented shell in native C# .NET 9, with PowerShell cmdlet aliases and live process monitoring. |
-| [**Kairo Themes**](https://github.com/zyrndotio/Kairo--Themes) | A Visual Studio Code extension with a refined collection of dark and light color themes. |
+| [**Vortex**](https://github.com/zyrndotio/Vortex) | A cross-platform, object-oriented shell in C#/.NET 9 with a native object pipeline, PowerShell-style aliases, and live process monitoring. |
+| [**Vel**](https://github.com/zyrndotio/Vel) | A readable systems programming language with a portable C++23 frontend and x86-64 Linux/macOS backends. |
+| [**Velari**](https://github.com/zyrndotio/Velari) | A Rust-based programming-language and compiler foundation for safe, cross-platform native desktop applications. |
+| [**Zyrn UI**](https://github.com/zyrndotio/Zyrn-UI) | A React + TypeScript component library built around an ink-and-paper, woodblock-inspired design system. |
+| [**LightScanner**](https://github.com/zyrndotio/LightScanner) | A lightweight Windows GUI controller for ELK-BLEDOM-compatible Bluetooth LED lights. |
+| [**Kairo Themes**](https://github.com/zyrndotio/Kairo--Themes) | A Visual Studio Code theme extension with dark and light workspace themes. |
 
-## what I enjoy building
+## Technology
 
-I’m especially drawn to:
+**Languages:** C#, C++, Rust, TypeScript, JavaScript, Python, Go, Kotlin, Lua, HTML, CSS, and SQL
 
-- developer tools that make complicated work feel calmer;
-- programming languages, shells, and systems that reward curiosity;
-- component libraries and interfaces with a strong visual point of view;
-- editor themes and small creative tools that make a workspace feel personal;
-- experiments that bring code, design, and storytelling into the same place.
+**Tools and frameworks:** .NET, React, Vite, CMake, NASM, PyQt6, Git, GitHub, VS Code, and Figma
 
-## find me here
+## What I’m looking for
 
-- **Website:** [Zyrn.io](https://zyrn.io)
+I’m interested in open-source collaboration, internships, mentorship, and junior opportunities involving systems software, developer tooling, full-stack applications, or frontend engineering.
+
+## Connect
+
+- **Website:** [zyrn.io](https://zyrn.io)
 - **GitHub:** [@zyrndotio](https://github.com/zyrndotio)
-- **Projects:** [Vel](https://github.com/zyrndotio/Vel) · [Zyrn UI](https://github.com/zyrndotio/Zyrn-UI) · [Vortex](https://github.com/zyrndotio/Vortex) · [Kairo Themes](https://github.com/zyrndotio/Kairo--Themes)
-
----
+- **Open-source work:** [View my public repositories](https://github.com/zyrndotio?tab=repositories)
 
 <p align="center">
-  <sub>made with curiosity, patience, and a fondness for dark themes</sub>
+  <sub>Building carefully, learning in public, and contributing one useful change at a time.</sub>
 </p>

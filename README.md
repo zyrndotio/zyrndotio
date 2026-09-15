@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://zyrn.io">
+  <a href="https://zyrndotio.neocities.org">
     <img src="https://raw.githubusercontent.com/zyrndotio/zyrndotio/main/assets/Screenshot%202026-09-08%20231707.png" width="100%" alt="Zyrn developer portfolio banner" />
   </a>
 </p>
@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <a href="https://zyrn.io">Portfolio</a> ·
+  <a href="https://zyrndotio.neocities.org">Portfolio</a> ·
   <a href="https://github.com/zyrndotio">GitHub</a>
 </p>
 
@@ -46,7 +46,8 @@ I’m interested in open-source collaboration, internships, mentorship, and juni
 
 ## Connect
 
-- **Website:** [zyrn.io](https://zyrn.io)
+- **Primary website:** [zyrndotio.neocities.org](https://zyrndotio.neocities.org)
+- **Alternate website:** [zyrndotio.nekoweb.org](https://zyrndotio.nekoweb.org)
 - **GitHub:** [@zyrndotio](https://github.com/zyrndotio)
 - **Open-source work:** [View my public repositories](https://github.com/zyrndotio?tab=repositories)
 

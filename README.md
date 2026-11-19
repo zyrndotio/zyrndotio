@@ -4,7 +4,7 @@
   </a>
 </p>
 
-<h1 align="center">Hi, I’m Zyrn (Zied)</h1>
+<h1 align="center">Hi, I’m Zyrn (Zi-ren)</h1>
 
 <p align="center">
   <strong>Student developer building systems software, developer tools, and thoughtful interfaces.</strong>
